@@ -1,0 +1,40 @@
+Pair,Sector,SubIndustry,beta,adf_p,Trades,WinRate,AvgHoldDays,GrossPnL,NetPnL,NetReturnPct,ForcedClose
+EL-KVUE,Consumer Staples,Personal Care Products,0.614,0.0256,5,0.8,15.8,1242.02,1192.9,11.929,0
+ABBV-GILD,Health Care,Biotechnology,0.368,0.0303,5,0.8,16.0,1215.99,1165.97,11.66,1
+SCHW-MS,Financials,Investment Banking & Brokerage,0.335,0.0431,3,1.0,13.7,918.86,889.15,8.891,0
+GOOGL-META,Communication Services,Interactive Media & Services,1.822,0.0305,3,0.667,20.3,656.38,626.15,6.261,0
+GE-HWM,Industrials,Aerospace & Defense,0.579,0.0361,4,0.5,19.2,614.21,572.99,5.73,1
+ETN-EMR,Industrials,Electrical Components & Equipment,0.319,0.0458,3,0.667,20.7,598.58,567.14,5.671,0
+CAH-COR,Health Care,Health Care Distributors,0.736,0.0097,3,1.0,11.7,573.23,543.08,5.431,0
+AIZ-L,Financials,Multi-line Insurance,0.517,0.0003,4,0.75,10.5,488.16,448.09,4.481,1
+CTVA-FMC,Materials,Fertilizers & Agricultural Chemicals,2.873,0.027,3,0.667,12.0,363.23,332.84,3.328,0
+LVS-WYNN,Consumer Discretionary,Casinos & Gaming,0.806,0.0292,4,0.75,12.0,327.69,288.41,2.884,1
+COF-SYF,Financials,Consumer Finance,0.854,0.0273,5,0.6,14.2,276.65,226.04,2.26,1
+ACN-CTSH,Information Technology,IT Consulting & Other Services,0.72,0.0272,2,1.0,16.5,232.83,213.65,2.136,0
+PNC-USB,Financials,Diversified Banks,1.263,0.0595,5,0.6,15.4,203.93,154.36,1.544,0
+CFG-HBAN,Financials,Regional Banks,0.757,0.0195,2,1.0,14.0,162.38,141.74,1.417,1
+ETR-PPL,Utilities,Electric Utilities,1.145,0.0197,3,0.667,13.0,166.4,135.75,1.358,0
+DHI-LEN,Consumer Discretionary,Homebuilding,0.869,0.003,3,0.667,21.7,98.17,68.18,0.682,1
+EXR-PSA,Real Estate,Self-Storage REITs,0.436,0.0002,2,0.5,15.0,87.28,67.2,0.672,0
+MO-PM,Consumer Staples,Tobacco,0.503,0.0367,3,0.333,27.3,80.18,50.01,0.5,0
+CNP-NI,Utilities,Multi-Utilities,0.785,0.0131,4,0.75,18.8,26.28,-14.39,-0.144,0
+FICO-PTC,Information Technology,Application Software,0.479,0.0469,4,0.5,16.8,23.37,-17.05,-0.171,1
+CNC-ELV,Health Care,Managed Health Care,0.333,0.0154,5,0.4,18.8,26.73,-23.59,-0.236,1
+EOG-MRO,Energy,Oil & Gas Exploration & Production,0.931,0.0318,3,0.667,27.0,-32.34,-63.05,-0.631,1
+CVX-XOM,Energy,Integrated Oil & Gas,0.654,0.0129,3,0.667,16.7,-53.13,-83.86,-0.839,0
+CRL-DHR,Health Care,Life Sciences Tools & Services,0.449,0.047,3,0.667,20.3,-85.87,-115.72,-1.157,0
+ITW-OTIS,Industrials,Industrial Machinery & Supplies & Components,0.784,0.0395,3,0.333,32.3,-119.41,-149.45,-1.495,0
+HAL-SLB,Energy,Oil & Gas Equipment & Services,0.793,0.0115,4,0.5,19.2,-111.09,-150.67,-1.507,1
+ABT-BAX,Health Care,Health Care Equipment,1.566,0.0639,3,0.333,23.7,-128.43,-157.97,-1.58,0
+GPC-LKQ,Consumer Discretionary,Distributors,0.928,0.0002,2,0.5,18.0,-143.06,-163.09,-1.631,0
+BEN-IVZ,Financials,Asset Management & Custody Banks,1.113,0.0228,4,0.5,25.5,-130.63,-170.0,-1.7,0
+DD-LYB,Materials,Specialty Chemicals,0.673,0.0052,2,0.5,34.5,-183.65,-204.03,-2.04,1
+LH-DGX,Health Care,Health Care Services,0.268,0.0698,4,0.25,23.8,-293.32,-332.94,-3.329,0
+KEYS-ZBRA,Information Technology,Electronic Equipment & Instruments,0.929,0.0178,3,0.333,26.3,-324.47,-354.65,-3.546,0
+AMAT-LRCX,Information Technology,Semiconductor Materials & Equipment,1.227,0.0263,5,0.6,17.6,-344.74,-396.09,-3.961,1
+LUV-UAL,Industrials,Passenger Airlines,0.837,0.0017,4,0.5,18.2,-375.92,-415.96,-4.16,1
+MKTX-NDAQ,Financials,Financial Exchanges & Data,0.227,0.0803,2,0.5,37.0,-531.8,-551.87,-5.519,0
+TRGP-WMB,Energy,Oil & Gas Storage & Transportation,0.929,0.0088,4,0.5,23.0,-622.94,-664.39,-6.644,1
+BMY-PFE,Health Care,Pharmaceuticals,1.117,0.0001,3,0.333,17.3,-752.25,-782.6,-7.826,0
+TSCO-ULTA,Consumer Discretionary,Other Specialty Retail,1.685,0.0124,2,0.5,39.5,-1253.37,-1273.08,-12.731,0
+INTC-MU,Information Technology,Semiconductors,0.605,0.0004,2,0.5,50.0,-3802.89,-3823.44,-38.234,0
